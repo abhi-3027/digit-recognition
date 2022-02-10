@@ -6,6 +6,6 @@ keras
 numpy==1.16.4
 h5py
 pillow
-tensorflow==1.14.0
+tensorflow==2.5.3
 scikit-image
 setuptools==42.0.0
