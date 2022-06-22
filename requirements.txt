@@ -3,7 +3,7 @@ gevent
 gunicorn
 imageio
 keras
-numpy==1.16.4
+numpy==1.22.0
 h5py
 pillow
 tensorflow==1.14.0
