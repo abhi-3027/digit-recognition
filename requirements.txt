@@ -8,4 +8,4 @@ h5py
 pillow
 tensorflow==1.14.0
 scikit-image
-setuptools==42.0.0
+setuptools==65.5.1
